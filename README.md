@@ -31,15 +31,13 @@ HTML, CSS, JavaScript, React.js, Node.js, Flask, Streamlit, Jupyter Notebook, Gi
 **Soft Skills:**  
 Analytical Thinking, Problem Solving, Communication, Adaptability, Teamwork  
 
----
-
-## 🚀 Highlight Projects  
+---## 🚀 Highlight Projects  
 
 <table>
 <tr>
 <td>
 <a href="https://multiple-disease-find-app.streamlit.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Multiple-Disease-Prediction&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=multiple-disease-prediction-streamlit-app&theme=radical" />
 </a>  
 <p><b>Multiple Disease Prediction</b><br/>ML-powered Streamlit app predicting Diabetes, Heart Disease & Parkinson’s with 92% accuracy.</p>
 </td>
@@ -64,9 +62,16 @@ Analytical Thinking, Problem Solving, Communication, Adaptability, Teamwork
 <p><b>Fake News Detection</b><br/>NLP-based ML system that detects misinformation in news articles with high accuracy.</p>
 </td>
 </tr>
+<tr>
+<td>
+<a href="https://github.com/lingabarani/Personal-AI-Assistant-Streamlit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Personal-AI-Assistant-Streamlit&theme=radical" />
+</a>  
+<p><b>Personal AI Assistant</b><br/>Streamlit-based assistant integrating NLP, APIs, and speech recognition for productivity and automation.</p>
+</td>
+</tr>
 </table>
 
----
 
 ## 🏆 Achievements & Highlights
 
