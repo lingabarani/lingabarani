@@ -31,7 +31,8 @@ HTML, CSS, JavaScript, React.js, Node.js, Flask, Streamlit, Jupyter Notebook, Gi
 **Soft Skills:**  
 Analytical Thinking, Problem Solving, Communication, Adaptability, Teamwork  
 
----## 🚀 Highlight Projects  
+---
+## 🚀 Highlight Projects  
 
 <table>
 <tr>
@@ -39,13 +40,17 @@ Analytical Thinking, Problem Solving, Communication, Adaptability, Teamwork
 <a href="https://multiple-disease-find-app.streamlit.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=multiple-disease-prediction-streamlit-app&theme=radical" />
 </a>  
-<p><b>Multiple Disease Prediction</b><br/>ML-powered Streamlit app predicting Diabetes, Heart Disease & Parkinson’s with 92% accuracy.</p>
+<br/>
+<b>Multiple Disease Prediction</b>  
+ML-powered Streamlit app predicting Diabetes, Heart Disease & Parkinson’s with 92% accuracy.
 </td>
 <td>
 <a href="https://lingabarani.github.io/Digital-Doc/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Digital-Doc&theme=radical" />
 </a>  
-<p><b>Digital Doc</b><br/>Award-winning health platform blending modern and Ayurvedic healthcare with Power BI dashboards.</p>
+<br/>
+<b>Digital Doc</b>  
+Award-winning health platform blending modern and Ayurvedic healthcare with Power BI dashboards.
 </td>
 </tr>
 <tr>
@@ -53,25 +58,22 @@ Analytical Thinking, Problem Solving, Communication, Adaptability, Teamwork
 <a href="https://github.com/lingabarani/Educonnect.Ai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Educonnect.Ai&theme=radical" />
 </a>  
-<p><b>Educonnect.Ai</b><br/>Flask-based platform enabling inclusive learning with sign-to-speech and AI-powered tools.</p>
+<br/>
+<b>Educonnect.Ai</b>  
+Flask-based platform enabling inclusive learning with sign-to-speech and AI-powered tools.
 </td>
 <td>
 <a href="https://github.com/lingabarani/Fake-News-Detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Fake-News-Detection&theme=radical" />
 </a>  
-<p><b>Fake News Detection</b><br/>NLP-based ML system that detects misinformation in news articles with high accuracy.</p>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/lingabarani/Personal-AI-Assistant-Streamlit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Personal-AI-Assistant-Streamlit&theme=radical" />
-</a>  
-<p><b>Personal AI Assistant</b><br/>Streamlit-based assistant integrating NLP, APIs, and speech recognition for productivity and automation.</p>
+<br/>
+<b>Fake News Detection</b>  
+NLP-based ML system that detects misinformation in news articles with high accuracy.
 </td>
 </tr>
 </table>
 
+---
 
 ## 🏆 Achievements & Highlights
 
