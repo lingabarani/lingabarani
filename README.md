@@ -33,27 +33,17 @@ Analytical Thinking, Problem Solving, Communication, Adaptability, Teamwork
 
 ---
 
-## 🚀 Highlight Projects
-
-<style>
-.project-card {
-  display: inline-block;
-  transition: transform 0.3s ease;
-}
-.project-card:hover {
-  transform: scale(1.05);
-}
-</style>
+## 🚀 Highlight Projects  
 
 <table>
 <tr>
-<td class="project-card">
+<td>
 <a href="https://multiple-disease-find-app.streamlit.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=multiple-disease-prediction&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Multiple-Disease-Prediction&theme=radical" />
 </a>  
 <p><b>Multiple Disease Prediction</b><br/>ML-powered Streamlit app predicting Diabetes, Heart Disease & Parkinson’s with 92% accuracy.</p>
 </td>
-<td class="project-card">
+<td>
 <a href="https://lingabarani.github.io/Digital-Doc/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Digital-Doc&theme=radical" />
 </a>  
@@ -61,13 +51,13 @@ Analytical Thinking, Problem Solving, Communication, Adaptability, Teamwork
 </td>
 </tr>
 <tr>
-<td class="project-card">
+<td>
 <a href="https://github.com/lingabarani/Educonnect.Ai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Educonnect.Ai&theme=radical" />
 </a>  
 <p><b>Educonnect.Ai</b><br/>Flask-based platform enabling inclusive learning with sign-to-speech and AI-powered tools.</p>
 </td>
-<td class="project-card">
+<td>
 <a href="https://github.com/lingabarani/Fake-News-Detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingabarani&repo=Fake-News-Detection&theme=radical" />
 </a>  
